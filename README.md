@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Linux-DEX </h1>
 
+![Arch Desktop](./img/Arch-desktop.jpg)
+
 # 💫 About Me:
 - 🔭 I'm currently working on Flutter<br>
-- 🌱 I'm currently learning Backend<br>
+- 🌱 I'm currently learning Full Stack Development<br>
 - 💬 Ask me anything about Linux & Web development<br>
-- ⚡ Fun Fact : Arch linux is best
+- ⚡ Fun Fact : Arch Linux is best
 
 --- 
 # 💻 Tech Stack:
