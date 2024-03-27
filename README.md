@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Linux-DEX </h1>
+<h1 align="center">Hi 👋, I'm Sarabjeet Singh </h1>
 
 ![Arch Desktop](./img/Arch-desktop.jpg)
 
