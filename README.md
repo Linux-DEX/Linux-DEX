@@ -5,10 +5,15 @@
 <img align="right" alt="Coding" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="500">
 
 <h1 align="left">💫 About Me:</h1>
+
 - 🔭 I'm currently working on Flutter<br>
+
 - 🌱 I'm currently learning Full Stack Development<br>
+
 - 💬 Ask me anything about Linux/full Stack Web development/Flutter<br>
+
 - 📫 How to reach me **sarabjeet.9353@gmail.com**
+
 - ⚡ Fun Fact : Arch Linux is best
 
 
