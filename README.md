@@ -1,4 +1,4 @@
-![Arch Desktop](./img/gitBanner.gif)
+![Master](./img/Banner.png)
 
 <h1 align="center">Hi 👋, I'm Sarabjeet Singh </h1>
 <h3 align="center">A passionate FullStack Developer from India</h3>
