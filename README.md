@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Sarabjeet Singh </h1>
-
 ![Arch Desktop](./img/Arch-desktop.jpg)
 
+<h1 align="center">Hi 👋, I'm Sarabjeet Singh </h1>
+---
 # 💫 About Me:
 - 🔭 I'm currently working on Flutter<br>
 - 🌱 I'm currently learning Full Stack Development<br>
@@ -33,8 +33,7 @@
 
 ---
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Linux-DEX&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Linux-DEX&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Linux-DEX&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>![](https://github-readme-stats.vercel.app/api/top-langs/?username=Linux-DEX&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 ---
