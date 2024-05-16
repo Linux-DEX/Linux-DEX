@@ -6,7 +6,7 @@
 
 <h3 align="left">💫 About Me:</h3>
 
-- 🔭 I'm currently working on Flutter<br>
+- 🔭 I'm currently working on MERN stack & Python<br>
 
 - 🌱 I'm currently learning Full Stack Development<br>
 
@@ -38,9 +38,9 @@
 + [Linux & Hacking tools](https://github.com/Linux-DEX/Linux-Notes.git)
 	 Discover **essential Linux commands** and a curated selection of **potent hacking tools notes in this repository**, empowering users with indispensable knowledge and resources for cybersecurity, system administration, and ethical hacking endeavors.
 
-+ **My Linux config and dotfile**
-	 [dotfile for shell & other](https://github.com/Linux-DEX/dotfile.git) 
-	 [Qtile Arco Linux config](https://github.com/Linux-DEX/Qtile.git)
++ **My Custome Linux Config**
+	+ Dotfile for Linux [dotfile for shell & other](https://github.com/Linux-DEX/dotfile.git) 
+	+ Arch Based Qtile Config for X11 [Qtile Arco Linux config](https://github.com/Linux-DEX/Qtile.git)
 
 
 <h3 align="left">📊 GitHub Stats:</h3>
