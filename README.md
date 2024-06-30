@@ -2,13 +2,13 @@
 
 <h1 align="center">Hi 👋, I'm Sarabjeet Singh </h1>
 <h3 align="center">A passionate FullStack Developer from India</h3>
-<img align="right" alt="Coding" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="500">
+<img align="right" alt="Coding" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="400">
 
 <h3 align="left">💫 About Me:</h3>
 
-- 🔭 I'm currently working on FARM stack & Python<br>
+- 🔭 I'm currently working on **FARM stack & Python**<br>
 
-- 🌱 I'm currently learning Full Stack Development<br>
+- 🌱 I'm currently learning **Full Stack Development**<br>
 
 - 💬 Ask me anything about Linux/full Stack Web development/Flutter<br>
 
@@ -41,8 +41,6 @@
 + **My Custome Linux Config**
 	+ Dotfile for Linux [dotfile for shell & other](https://github.com/Linux-DEX/dotfile.git) 
 	+ Arch Based Qtile Config for X11 [Qtile Arco Linux config](https://github.com/Linux-DEX/Qtile.git)
-
-<img align="center" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />
 
 <h3 align="left">📊 GitHub Stats:</h3>
 
