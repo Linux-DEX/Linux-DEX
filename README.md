@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Sarabjeet Singh </h1>
 <h3 align="center">A passionate FullStack Developer from India</h3>
-<img align="right" alt="Coding" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="500">
+<img align="right" alt="Coding" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="400">
 
 <h3 align="left">💫 About Me:</h3>
 
