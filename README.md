@@ -1,27 +1,4 @@
-```
-		   00
-                   11
-                  ====                  ┌─────────────────────────────────────────────────┐
-                  .//                     Linux @Linux-DEX
-                 `o//:                  └─────────────────────────────────────────────────┘
-                `+o//o:                                                  
-               `+oo//oo:                ┌─────────────────────────────────────────────────┐
-               -+oo//oo+:                Name-> Sarabjeet singh
-             `/:-:+//ooo+:              │ ├ Role -> Full Stack Software Engineer
-            `/+++++//+++++:             │ ├ Gmail -> sarabjeet.9353@gmail.com
-           `/++++++//++++++:            │ ├ Portfolio -> https://linuxdex000.web.app/
-          `/+++oooo//ooooooo/`          │ ├ LinkedIn -> https://www.linkedin.com/in/sarabjeet-singh-914aab254
-         ./ooosssso//osssssso+`         │ ├ Motivated about building scalable, efficient web applications
-        .oossssso-`//`/ossssss+`        │ ├ Focused on user experience and seamless integration
-       -osssssso.  //  :ssssssso.       │ └ of front-end and back-end
-      :osssssss/   //   osssso+++.      └─────────────────────────────────────────────────┘
-     /ossssssss/   //   +ssssooo/-                                       
-   `/ossssso+/:-   //   -:/+osssso+-
-  `+sso+:-`        //       `.-/+oso:
- `++:.             //            `-/+/
- .`                /                `/
-```
-
+![Master](./img/profile-banner.png)
 
 <h1 align="center">Hi 👋, I'm Sarabjeet Singh </h1>
 <h3 align="center">A passionate Full Stack Software Engineer from India</h3>
@@ -70,6 +47,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Linux-DEX&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Linux-DEX" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Linux-DEX&show_icons=true&locale=en&theme=tokyonight" alt="Linux-DEX" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Linux-DEX&&theme=tokyonight" alt="Linux-DEX" /></p>
 
