@@ -81,9 +81,9 @@ passion:
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Linux-DEX&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Linux-DEX&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Linux-DEX&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Linux-DEX&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="GitHub Activity Graph" />
 
 </div>
 
