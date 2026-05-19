@@ -16,7 +16,7 @@
 
 ```yaml
 role: Full Stack Software Engineer
-experience: 1.5+ years in production environments
+experience: 2+ years in production environments
 location: India
 focus:
   - Building scalable cloud-native applications on Azure
