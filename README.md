@@ -12,25 +12,6 @@
 
 ---
 
-## 💫 About Me
-
-```yaml
-role: Full Stack Software Engineer
-experience: 2+ years in production environments
-location: India
-focus:
-  - Building scalable cloud-native applications on Azure
-  - Healthcare EDPS/EDI systems (837, 277, 999, MAO02, MOR, MMR)
-  - AI Chatbots using RAG, LangChain & Azure OpenAI
-  - Linux systems & performance optimization
-passion:
-  - Clean architecture
-  - Scalable systems
-  - Open source
-```
-
----
-
 ## 🛠️ Tech Stack
 
 ### Languages
@@ -64,26 +45,6 @@ passion:
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-## 🚀 What I Build
-
-- 🏥 **Healthcare Systems** - EDI/EDPS claim parsing & processing at scale
-- 🤖 **AI Solutions** - RAG-based chatbots with semantic search
-- ☁️ **Cloud Applications** - Scalable microservices on Azure/AWS
-- 🔧 **Developer Tools** - MCP tools for AI agent integrations
-- 📊 **Data Processing** - Systems handling 1M+ daily requests
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Linux-DEX&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Linux-DEX&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="GitHub Activity Graph" />
 
 </div>
 
