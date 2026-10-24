@@ -20,10 +20,6 @@ fallen over is still standing.
 
 Most days that means writing the thing, then taking it apart to see why it works.
 
-### Stack
-
-`Go` · `Python` · `TypeScript` · `C` · `Linux` · `Docker` · `Git`
-
 ### Contact
 
 <div align="center">
